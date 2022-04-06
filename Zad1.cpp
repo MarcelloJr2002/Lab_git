@@ -30,5 +30,6 @@ int main()
 		if (n >= 0)break;
 	}
 	cout << "Silnia z " << n << " wynosi: " << silnia(n) << endl;
+	cout << "Skonczylem" << endl;
 
 }
